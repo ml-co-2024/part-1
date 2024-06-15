@@ -1,0 +1,1787 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="drawings.svg"
+   inkscape:export-filename="pgd.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.6708672"
+     inkscape:cx="1222.4191"
+     inkscape:cy="189.42259"
+     inkscape:window-width="1512"
+     inkscape:window-height="916"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:snap-intersection-paths="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
+    <sodipodi:guide
+       position="189.59248,958.11912"
+       orientation="1,0"
+       id="guide824"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="456.2069,833.69906"
+       orientation="1,0"
+       id="guide930"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="651.66383,814.32203"
+       orientation="1,0"
+       id="guide1057"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="749.85455,897.49739"
+       orientation="1,0"
+       id="guide4057"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="952.20017,880.1038"
+       orientation="1,0"
+       id="guide8339"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Dot"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Dot"
+       markerWidth="0.65"
+       markerHeight="0.65"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         sodipodi:nodetypes="sssss"
+         id="path17" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true"
+       viewBox="0 0 4.25952648 4.92430807"
+       markerWidth="3.46"
+       markerHeight="4"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path21237" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="EmptyTriangleOutM"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="EmptyTriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) translate(-4.5,0)"
+         style="fill-rule:evenodd;fill:context-fill;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path21255" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="EmptyTriangleOutL"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="EmptyTriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(-6,0)"
+         style="fill-rule:evenodd;fill:context-fill;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path21252" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Send"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.3) rotate(180) translate(-2.3,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path1234" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker22829"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path22827" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker22819"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path22817" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path1228" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Send"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.2) rotate(180) translate(6,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1216" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1228-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1228-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1228-7-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker21932"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path21930" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-4-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1228-5-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-2-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1228-7-5-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker22268"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path22266" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-4-6-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1228-5-6-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-2-4-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1228-7-5-9-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker22875"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path22873" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker22829-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path22827-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7566"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path7564" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7570"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path7568" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7574"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path7572" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker21932-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path21930-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true"
+       viewBox="0 0 4.2595265 4.9243081"
+       markerWidth="3.46"
+       markerHeight="4"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path21237-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-38"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true"
+       viewBox="0 0 4.2595265 4.9243081"
+       markerWidth="3.46"
+       markerHeight="4"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path21237-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-3-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true"
+       viewBox="0 0 4.2595265 4.9243081"
+       markerWidth="3.46"
+       markerHeight="4"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path21237-7-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-38-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true"
+       viewBox="0 0 4.2595265 4.9243081"
+       markerWidth="3.46"
+       markerHeight="4"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path21237-3-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-3-0-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true"
+       viewBox="0 0 4.2595265 4.9243081"
+       markerWidth="3.46"
+       markerHeight="4"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path21237-7-9-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-38-2-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true"
+       viewBox="0 0 4.2595265 4.9243081"
+       markerWidth="3.46"
+       markerHeight="4"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path21237-3-9-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true"
+       viewBox="0 0 4.2595265 4.9243081"
+       markerWidth="3.46"
+       markerHeight="4"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path21237-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true"
+       viewBox="0 0 4.2595265 4.9243081"
+       markerWidth="3.46"
+       markerHeight="4"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Dot-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Dot"
+       markerWidth="0.64999998"
+       markerHeight="0.64999998"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         sodipodi:nodetypes="sssss"
+         id="path17-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true"
+       viewBox="0 0 4.2595265 4.9243081"
+       markerWidth="3.46"
+       markerHeight="4"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-3-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true"
+       viewBox="0 0 4.2595265 4.9243081"
+       markerWidth="3.46"
+       markerHeight="4"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path21237-7-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-3-0-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true"
+       viewBox="0 0 4.2595265 4.9243081"
+       markerWidth="3.46"
+       markerHeight="4"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path21237-7-9-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-3-0-0-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true"
+       viewBox="0 0 4.2595265 4.9243081"
+       markerWidth="3.46"
+       markerHeight="4"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path21237-7-9-3-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true"
+       viewBox="0 0 4.2595265 4.9243081"
+       markerWidth="3.46"
+       markerHeight="4"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path3-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-38-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true"
+       viewBox="0 0 4.2595265 4.9243081"
+       markerWidth="3.46"
+       markerHeight="4"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path21237-3-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-38-2-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true"
+       viewBox="0 0 4.2595265 4.9243081"
+       markerWidth="3.46"
+       markerHeight="4"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path21237-3-9-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-38-2-8-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true"
+       viewBox="0 0 4.2595265 4.9243081"
+       markerWidth="3.46"
+       markerHeight="4"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path21237-3-9-6-5" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#eef4d7;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 189.59248,284.38871 v -95.1481 l 84.17735,13.71664 91.90126,67.06761 5.96243,14.36385 z"
+       id="path3133"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_geometric.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M 189.59248,284.38872 V 159.96866"
+       id="path932"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_geometric.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#5aa02c;stroke-width:1.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-2);stroke-miterlimit:4;stroke-dasharray:1.4,1.4;stroke-dashoffset:0"
+       d="m 189.59248,284.38871 49.38546,-40.41846"
+       id="path932-0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_geometric.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M 189.59248,284.38871 H 456.2069"
+       id="path934"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_geometric.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0"
+       d="m 165.14656,185.25716 308.77925,50.31536"
+       id="path1510"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_geometric.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 231.14602,171.85128 408.80567,301.50357"
+       id="path1510-3"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_geometric.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 328.77677,181.14415 51.81336,124.82159"
+       id="path1510-3-6"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_geometric.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="437.64844"
+       y="298.49475"
+       id="text6646"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_geometric.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737"><tspan
+         sodipodi:role="line"
+         id="tspan6644"
+         x="437.64844"
+         y="298.49475"
+         style="font-size:13.3333px;font-style:italic">x<tspan
+   style="font-size:8px;word-spacing:0px;font-style:italic"
+   id="tspan16274"
+   dy="2">0</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="172.40866"
+       y="172.83261"
+       id="text6646-9"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_geometric.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737"><tspan
+         sodipodi:role="line"
+         id="tspan6644-3"
+         x="172.40866"
+         y="172.83261"
+         style="font-style:italic;font-size:13.3333px">x<tspan
+   style="font-style:italic;font-size:8px;word-spacing:0px"
+   id="tspan16274-7"
+   dy="2">1</tspan></tspan></text>
+    <path
+       style="fill:#eef4d7;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 189.59248,510.23018 v -95.1481 l 84.17735,13.71664 91.90126,67.06761 5.96243,14.36385 z"
+       id="path3133-4"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_simplex.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-4)"
+       d="M 189.59248,510.23019 V 385.81013"
+       id="path932-7"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_simplex.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#5aa02c;stroke-width:1.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.4, 1.4;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend-2-2)"
+       d="m 189.59248,510.23018 49.38546,-40.41846"
+       id="path932-0-4"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_simplex.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-4)"
+       d="M 189.59248,510.23018 H 456.2069"
+       id="path934-4"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_simplex.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 165.14656,411.09863 308.77925,50.31536"
+       id="path1510-30"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_simplex.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 231.14602,397.69275 408.80567,527.34504"
+       id="path1510-3-7"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_simplex.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 328.77677,406.98562 51.81336,124.82159"
+       id="path1510-3-6-8"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_simplex.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="437.64841"
+       y="524.33624"
+       id="text6646-2"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_simplex.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737"><tspan
+         sodipodi:role="line"
+         id="tspan6644-0"
+         x="437.64841"
+         y="524.33624"
+         style="font-style:italic;font-size:13.3333px">x<tspan
+   style="font-style:italic;font-size:8px;word-spacing:0px"
+   id="tspan16274-6"
+   dy="2">0</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="172.40868"
+       y="398.67407"
+       id="text6646-9-8"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_simplex.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737"><tspan
+         sodipodi:role="line"
+         id="tspan6644-3-9"
+         x="172.40868"
+         y="398.67407"
+         style="font-style:italic;font-size:13.3333px">x<tspan
+   style="font-style:italic;font-size:8px;word-spacing:0px"
+   id="tspan16274-7-2"
+   dy="2">1</tspan></tspan></text>
+    <path
+       style="fill:#eef4d7;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 189.59248,748.57855 v -95.1481 l 70.97736,11.5657 44.38525,83.5824 z"
+       id="path3133-4-5"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_cuts.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-4-6)"
+       d="M 189.59248,748.57855 V 624.1585"
+       id="path932-7-0"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_cuts.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#5aa02c;stroke-width:1.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.4, 1.4;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend-2-2-4)"
+       d="m 189.59248,748.57855 49.38546,-40.41846"
+       id="path932-0-4-4"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_cuts.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-4-6)"
+       d="M 189.59248,748.57855 H 456.2069"
+       id="path934-4-8"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_cuts.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 165.14656,649.447 308.77925,50.31535"
+       id="path1510-30-7"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_cuts.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 231.14602,636.04111 177.65965,129.6523"
+       id="path1510-3-7-1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_cuts.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#aa0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 242.69797,631.34143 74.91818,141.07931"
+       id="path1510-3-7-1-3"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_cuts.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 328.77677,645.33398 51.81336,124.82159"
+       id="path1510-3-6-8-7"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_cuts.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#2a7fff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 223.79164,624.15847 V 748.57853"
+       id="path1510-3-6-7-6-2"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_cuts.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#2a7fff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 260.0985,624.15847 V 748.57853"
+       id="path1510-3-6-7-5-8-7"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_cuts.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#2a7fff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 296.4054,624.15847 V 748.57853"
+       id="path1510-3-6-7-5-3-8-2"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_cuts.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#2a7fff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 332.71229,624.15847 V 748.57853"
+       id="path1510-3-6-7-5-3-5-4-2"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_cuts.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#2a7fff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 369.01916,624.15847 V 748.57853"
+       id="path1510-3-6-7-5-3-5-6-3-6"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_cuts.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#2a7fff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 405.32604,624.15847 V 748.57853"
+       id="path1510-3-6-7-5-3-5-6-2-14-1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_cuts.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#2a7fff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 441.63294,624.15847 V 748.57853"
+       id="path1510-3-6-7-5-3-5-6-2-1-9-0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_cuts.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="437.64844"
+       y="762.68463"
+       id="text6646-2-6"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_cuts.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737"><tspan
+         sodipodi:role="line"
+         id="tspan6644-0-1"
+         x="437.64844"
+         y="762.68463"
+         style="font-style:italic;font-size:13.3333px">x<tspan
+   style="font-style:italic;font-size:8px;word-spacing:0px"
+   id="tspan16274-6-5"
+   dy="2">0</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="172.40869"
+       y="637.02246"
+       id="text6646-9-8-9"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_cuts.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737"><tspan
+         sodipodi:role="line"
+         id="tspan6644-3-9-4"
+         x="172.40869"
+         y="637.02246"
+         style="font-style:italic;font-size:13.3333px">x<tspan
+   style="font-style:italic;font-size:8px;word-spacing:0px"
+   id="tspan16274-7-2-9"
+   dy="2">1</tspan></tspan></text>
+    <path
+       style="fill:#eef4d7;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 189.59248,993.47123 v -95.1481 l 70.50602,11.4889 v 83.65918 z"
+       id="path3133-4-5-7"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_branching.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:#eef4d7;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 296.4054,993.47121 v -64.91248 l 69.26572,50.54868 5.96242,14.36382 z"
+       id="path3133-4-5-7-9"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_branching.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-4-6-0)"
+       d="M 189.59248,993.47123 V 869.05118"
+       id="path932-7-0-1"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_branching.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#5aa02c;stroke-width:1.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.4, 1.4;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend-2-2-4-1)"
+       d="m 189.59248,993.47123 49.38546,-40.41846"
+       id="path932-0-4-4-1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_branching.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-4-6-0)"
+       d="M 189.59248,993.47123 H 456.2069"
+       id="path934-4-8-5"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_branching.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 165.14656,894.33968 308.77925,50.31535"
+       id="path1510-30-7-9"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_branching.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 231.14602,880.93379 408.80567,1010.5861"
+       id="path1510-3-7-1-7"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_branching.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 328.77677,890.22666 51.81336,124.82154"
+       id="path1510-3-6-8-7-7"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_branching.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#2a7fff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 223.79164,869.05115 V 993.47121"
+       id="path1510-3-6-7-6-2-6"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_branching.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#2a7fff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 260.0985,869.05115 V 993.47121"
+       id="path1510-3-6-7-5-8-7-7"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_branching.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#2a7fff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 296.4054,869.05115 V 993.47121"
+       id="path1510-3-6-7-5-3-8-2-3"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_branching.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#2a7fff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 332.71229,869.05115 V 993.47121"
+       id="path1510-3-6-7-5-3-5-4-2-6"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_branching.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#2a7fff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 369.01916,869.05115 V 993.47121"
+       id="path1510-3-6-7-5-3-5-6-3-6-5"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_branching.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#2a7fff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 405.32604,869.05115 V 993.47121"
+       id="path1510-3-6-7-5-3-5-6-2-14-1-6"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_branching.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#2a7fff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 441.63294,869.05115 V 993.47121"
+       id="path1510-3-6-7-5-3-5-6-2-1-9-0-3"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_branching.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="437.64844"
+       y="1007.5773"
+       id="text6646-2-6-9"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_branching.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737"><tspan
+         sodipodi:role="line"
+         id="tspan6644-0-1-4"
+         x="437.64844"
+         y="1007.5773"
+         style="font-style:italic;font-size:13.3333px">x<tspan
+   style="font-style:italic;font-size:8px;word-spacing:0px"
+   id="tspan16274-6-5-8"
+   dy="2">0</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="172.40869"
+       y="881.91516"
+       id="text6646-9-8-9-1"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_branching.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737"><tspan
+         sodipodi:role="line"
+         id="tspan6644-3-9-4-2"
+         x="172.40869"
+         y="881.91516"
+         style="font-style:italic;font-size:13.3333px">x<tspan
+   style="font-style:italic;font-size:8px;word-spacing:0px"
+   id="tspan16274-7-2-9-9"
+   dy="2">1</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#c83737;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow2Send)"
+       d="m 189.59248,510.23018 h 182.04104 l -5.96243,-14.36385 -91.90126,-67.06761"
+       id="path22681"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_simplex.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.6667px;line-height:1;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="223.53137"
+       y="933.08789"
+       id="text28025"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_branching.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737"><tspan
+         sodipodi:role="line"
+         id="tspan28023"
+         x="223.53137"
+         y="933.08789"
+         style="font-size:10.6667px;text-align:center;text-anchor:middle">left</tspan><tspan
+         sodipodi:role="line"
+         x="223.53137"
+         y="943.75458"
+         id="tspan28027"
+         style="font-size:10.6667px;text-align:center;text-anchor:middle">branch</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.6667px;line-height:1;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="283.3992"
+       y="898.88831"
+       id="text28025-0"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_branching.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737"><tspan
+         sodipodi:role="line"
+         x="283.3992"
+         y="898.88831"
+         id="tspan28027-1"
+         style="font-size:10.6667px;text-align:center;text-anchor:middle">LP optimum</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.6667px;line-height:1;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="327.55847"
+       y="972.82715"
+       id="text28025-6"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/milp_branching.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737"><tspan
+         sodipodi:role="line"
+         id="tspan28023-0"
+         x="327.55847"
+         y="972.82715"
+         style="font-size:10.6667px;text-align:center;text-anchor:middle">right</tspan><tspan
+         sodipodi:role="line"
+         x="327.55847"
+         y="983.49384"
+         id="tspan28027-5"
+         style="font-size:10.6667px;text-align:center;text-anchor:middle">branch</tspan></text>
+    <circle
+       style="fill:#d40000;fill-opacity:0.996078;stroke:none;stroke-width:2"
+       id="path1906"
+       cx="273.37332"
+       cy="911.90131"
+       r="2.1887503" />
+    <rect
+       style="fill:none;fill-opacity:0.996078;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2093"
+       width="165.42741"
+       height="37.876953"
+       x="749.85455"
+       y="182.50261"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="832.52917"
+       y="205.85515"
+       id="text2771"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737"><tspan
+         sodipodi:role="line"
+         id="tspan2769"
+         x="832.52917"
+         y="205.85515"
+         style="font-size:13.3333px;text-align:center;text-anchor:middle">path selection</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="615.23413"
+       y="197.49188"
+       id="text2771-5"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737"><tspan
+         sodipodi:role="line"
+         id="tspan2769-4"
+         x="615.23413"
+         y="197.49188"
+         style="font-size:13.3333px;text-align:center;text-anchor:middle">initial</tspan><tspan
+         sodipodi:role="line"
+         x="615.23413"
+         y="210.82518"
+         style="font-size:13.3333px;text-align:center;text-anchor:middle"
+         id="tspan11216">path pool</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="624.48535"
+       y="268.72311"
+       id="text2771-5-1"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737"><tspan
+         sodipodi:role="line"
+         x="624.48535"
+         y="268.72311"
+         style="font-size:13.3333px;text-align:center;text-anchor:middle"
+         id="tspan11216-8">done</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.33333px;line-height:1;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="707.68182"
+       y="288.84229"
+       id="text2771-5-1-9"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737"><tspan
+         sodipodi:role="line"
+         x="707.68182"
+         y="288.84229"
+         style="font-size:9.33333px;text-align:center;text-anchor:middle"
+         id="tspan11216-8-3">new paths?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.33333px;line-height:1;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="718.86774"
+       y="241.72455"
+       id="text2771-5-1-9-6"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737"><tspan
+         sodipodi:role="line"
+         x="718.86774"
+         y="241.72455"
+         style="font-size:9.33333px;text-align:center;text-anchor:middle"
+         id="tspan11216-8-3-8">yes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.33333px;line-height:1;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="678.92407"
+       y="261.54425"
+       id="text2771-5-1-9-6-0"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737"><tspan
+         sodipodi:role="line"
+         x="678.92407"
+         y="261.54425"
+         style="font-size:9.33333px;text-align:center;text-anchor:middle"
+         id="tspan11216-8-3-8-2">no</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:0.996078;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2093-4"
+       width="165.42741"
+       height="37.876953"
+       x="749.85455"
+       y="246.51173"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="832.31763"
+       y="262.08759"
+       id="text2771-7"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737"><tspan
+         sodipodi:role="line"
+         id="tspan2769-7"
+         x="832.31763"
+         y="262.08759"
+         style="font-size:13.3333px;text-align:center;text-anchor:middle">candidate path</tspan><tspan
+         sodipodi:role="line"
+         x="832.31763"
+         y="278.75421"
+         style="font-size:13.3333px;text-align:center;text-anchor:middle"
+         id="tspan4102">identification</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.996078;stroke:#000000;stroke-width:1.00001;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect8363"
+       width="20.071484"
+       height="20.071484"
+       x="677.65155"
+       y="-323.08932"
+       transform="matrix(0.7050403,0.70916724,-0.7050403,0.70916724,0,0)"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker22829)"
+       d="m 705.56265,251.44391 v -50.94922 h 42.2919"
+       id="path8498"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker22829)"
+       d="m 915.28197,200.49469 h 36.9182 v 65.18328 h -34.9182"
+       id="path8500"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker22829)"
+       d="M 749.85455,265.67797 H 721.71384"
+       id="path8502"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker22829)"
+       d="M 691.41146,265.67797 H 651.66383"
+       id="path8504"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker21932)"
+       d="m 651.66383,200.49469 h 51.89882"
+       id="path8619"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <rect
+       style="fill:none;fill-opacity:0.996078;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2093-1"
+       width="165.42741"
+       height="37.876953"
+       x="749.85455"
+       y="417.37469"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme2.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="832.52917"
+       y="440.72723"
+       id="text2771-0"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme2.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737"><tspan
+         sodipodi:role="line"
+         id="tspan2769-3"
+         x="832.52917"
+         y="440.72723"
+         style="font-size:13.3333px;text-align:center;text-anchor:middle">master problem</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="615.23413"
+       y="432.36395"
+       id="text2771-5-4"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme2.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737"><tspan
+         sodipodi:role="line"
+         id="tspan2769-4-0"
+         x="615.23413"
+         y="432.36395"
+         style="font-size:13.3333px;text-align:center;text-anchor:middle">initial</tspan><tspan
+         sodipodi:role="line"
+         x="615.23413"
+         y="445.69727"
+         style="font-size:13.3333px;text-align:center;text-anchor:middle"
+         id="tspan11216-3">path pool</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="624.48535"
+       y="503.59521"
+       id="text2771-5-1-91"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme2.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737"><tspan
+         sodipodi:role="line"
+         x="624.48535"
+         y="503.59521"
+         style="font-size:13.3333px;text-align:center;text-anchor:middle"
+         id="tspan11216-8-9">done</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.33333px;line-height:1;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="707.68182"
+       y="523.71436"
+       id="text2771-5-1-9-69"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme2.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737"><tspan
+         sodipodi:role="line"
+         x="707.68182"
+         y="523.71436"
+         style="font-size:9.33333px;text-align:center;text-anchor:middle"
+         id="tspan11216-8-3-3">new paths?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.33333px;line-height:1;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="718.86774"
+       y="476.59662"
+       id="text2771-5-1-9-6-3"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme2.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737"><tspan
+         sodipodi:role="line"
+         x="718.86774"
+         y="476.59662"
+         style="font-size:9.33333px;text-align:center;text-anchor:middle"
+         id="tspan11216-8-3-8-8">yes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.33333px;line-height:1;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="678.92407"
+       y="496.41632"
+       id="text2771-5-1-9-6-0-0"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme2.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737"><tspan
+         sodipodi:role="line"
+         x="678.92407"
+         y="496.41632"
+         style="font-size:9.33333px;text-align:center;text-anchor:middle"
+         id="tspan11216-8-3-8-2-5">no</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:0.996078;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2093-4-6"
+       width="165.42741"
+       height="37.876953"
+       x="749.85455"
+       y="481.38385"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme2.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="832.52917"
+       y="504.0007"
+       id="text2771-7-6"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme2.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737"><tspan
+         sodipodi:role="line"
+         x="832.52917"
+         y="504.0007"
+         style="font-size:13.3333px;text-align:center;text-anchor:middle"
+         id="tspan4102-0">pricing problem</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.996078;stroke:#000000;stroke-width:1.00001;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect8363-0"
+       width="20.071484"
+       height="20.071484"
+       x="843.24872"
+       y="-157.4922"
+       transform="matrix(0.7050403,0.70916724,-0.7050403,0.70916724,0,0)"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme2.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker22829-8)"
+       d="m 705.56264,486.31601 v -50.94922 h 42.2919"
+       id="path8498-4"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme2.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker22829-8)"
+       d="m 915.28195,435.36679 h 36.9182 v 65.18328 h -34.9182"
+       id="path8500-6"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme2.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker22829-8)"
+       d="M 749.85454,500.55007 H 721.71383"
+       id="path8502-2"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme2.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker22829-8)"
+       d="M 691.41145,500.55007 H 651.66382"
+       id="path8504-6"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme2.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker21932-3)"
+       d="m 651.66382,435.36679 h 51.89882"
+       id="path8619-7"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/lompa/Documents/Teaching/ML and Constrained Optimization/lectures/mining_with_co/notebooks/assets/cg_scheme2.png"
+       inkscape:export-xdpi="299.737"
+       inkscape:export-ydpi="299.737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;marker-end:url(#TriangleOutM)"
+       d="M 848.15198,997.2612 V 805.58618"
+       id="path1"
+       inkscape:export-filename="./pgd.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;marker-end:url(#TriangleOutM)"
+       d="M 643.32913,910.72097 H 957.12849"
+       id="path2"
+       sodipodi:nodetypes="cc" />
+    <ellipse
+       style="fill:none;stroke:#999999;stroke-width:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+       id="path3"
+       cx="539.37903"
+       cy="1081.4626"
+       rx="24.545454"
+       ry="13.119122"
+       transform="rotate(-15)" />
+    <ellipse
+       style="fill:none;stroke:#999999;stroke-width:1.00003;stroke-dasharray:1.00003, 1.00003;stroke-dashoffset:0"
+       id="path3-8"
+       cx="533.21405"
+       cy="1078.49"
+       rx="9.4899397"
+       ry="4.9735932"
+       transform="matrix(0.96736327,-0.25339359,0.26434366,0.96442855,0,0)" />
+    <ellipse
+       style="fill:none;stroke:#999999;stroke-width:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+       id="path3-9"
+       cx="539.37909"
+       cy="1081.462"
+       rx="48.71991"
+       ry="26.039951"
+       transform="rotate(-15)" />
+    <ellipse
+       style="fill:none;stroke:#999999;stroke-width:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+       id="path3-9-7"
+       cx="539.37866"
+       cy="1081.4619"
+       rx="85.198898"
+       ry="45.537342"
+       transform="rotate(-15)" />
+    <ellipse
+       style="fill:none;stroke:#999999;stroke-width:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+       id="path3-9-7-5"
+       cx="539.85382"
+       cy="1081.6997"
+       rx="146.50412"
+       ry="78.423233"
+       transform="matrix(0.9658119,-0.25924387,0.25839482,0.9660394,0,0)" />
+    <path
+       style="fill:none;stroke:#0088aa;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#TriangleOutM);marker-start:url(#Dot)"
+       d="m 859.95816,829.21013 -28.65331,26.08721"
+       id="path4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#0088aa;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#TriangleOutM-3)"
+       d="m 848.15198,855.29734 -19.27207,18.12744"
+       id="path4-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#0088aa;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#TriangleOutM-3-0)"
+       d="m 848.15198,873.38848 -19.27189,12.21433"
+       id="path4-0-2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#0088aa;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#TriangleOutM-3-0-0)"
+       d="m 848.15198,885.59581 -19.27207,8.8491"
+       id="path4-0-2-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff6600;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#TriangleOutM)"
+       d="m 831.30485,855.29734 16.84713,0"
+       id="path5"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff6600;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#TriangleOutM-38)"
+       d="m 828.87991,873.42478 19.27207,-0.0363"
+       id="path5-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff6600;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#TriangleOutM-38-2)"
+       d="m 828.88009,885.60281 19.27189,-0.007"
+       id="path5-6-1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff6600;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#TriangleOutM-38-2-8)"
+       d="m 828.87991,894.44491 19.27207,-0.0832"
+       id="path5-6-1-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;marker-end:url(#TriangleOutM-8)"
+       d="M 1274.1677,341.06809 V 149.39311"
+       id="path4-3"
+       inkscape:export-filename="./ipm.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;marker-end:url(#TriangleOutM-8)"
+       d="m 1069.3448,254.52789 h 313.7994"
+       id="path5-8"
+       sodipodi:nodetypes="cc" />
+    <ellipse
+       style="fill:none;stroke:#999999;stroke-width:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+       id="ellipse5"
+       cx="1120.7139"
+       cy="557.88983"
+       rx="24.545454"
+       ry="13.119122"
+       transform="rotate(-15)" />
+    <ellipse
+       style="fill:none;stroke:#999999;stroke-width:1.00003;stroke-dasharray:1.00003, 1.00003;stroke-dashoffset:0"
+       id="path3-8-5"
+       cx="1117.5737"
+       cy="551.62872"
+       rx="9.4899397"
+       ry="4.9735932"
+       transform="matrix(0.96736327,-0.25339359,0.26434366,0.96442855,0,0)" />
+    <ellipse
+       style="fill:none;stroke:#999999;stroke-width:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+       id="path3-9-1"
+       cx="1120.7139"
+       cy="557.88922"
+       rx="48.71991"
+       ry="26.039951"
+       transform="rotate(-15)" />
+    <ellipse
+       style="fill:none;stroke:#999999;stroke-width:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+       id="path3-9-7-2"
+       cx="1120.7135"
+       cy="557.8891"
+       rx="85.198898"
+       ry="45.537342"
+       transform="rotate(-15)" />
+    <ellipse
+       style="fill:none;stroke:#999999;stroke-width:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+       id="path3-9-7-5-4"
+       cx="1120.9589"
+       cy="558.38239"
+       rx="146.50412"
+       ry="78.423233"
+       transform="matrix(0.9658119,-0.25924387,0.25839482,0.9660394,0,0)" />
+    <path
+       style="fill:none;stroke:#0088aa;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#Dot-5);marker-end:url(#TriangleOutM-8)"
+       d="m 1349.5804,174.49125 -49.8998,18.00757"
+       id="path6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#0088aa;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#TriangleOutM-3-8)"
+       d="m 1299.6806,192.49882 -17.3385,17.94496"
+       id="path4-0-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#0088aa;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#TriangleOutM-3-0-5)"
+       d="m 1282.3421,210.44378 -3.7112,11.28024"
+       id="path4-0-2-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#0088aa;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#TriangleOutM-3-0-0-8)"
+       d="m 1278.6309,221.72402 -1.5397,8.65274"
+       id="path4-0-2-0-5"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
