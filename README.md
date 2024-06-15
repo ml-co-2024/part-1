@@ -9,35 +9,16 @@ author: michele.lombardi2@unibo.it
 
 Students are strongly encouraged to _run all lectures locally_. Doing this will require to:
 
-* Install Docker, by following the [online instructions](https://docs.docker.com/get-docker/).
-* Install Docker Compose, by following the [online
-instructions](https://docs.docker.com/compose/install/)
+
 * Clone the repository with the tutorial, in this case via the command:
 ```sh
-git clone https://github.com/phd-course-ml-co-2021/phd-ml-co-2021-01.git
+git clone https://github.com/ml-co-2024/part-1.git
 ```
-* Start the container via Docker Compose, from the main directory of the
-tutorial:
-```sh
-docker-compose up
-```
-
-On linux systems, you may need to start the docker service first.
-
-No matter which OS your are running, the first execution of this process will be fairly long, since Docker will need to download a base image for the container (think of a virtual machine disk) and then some boilerplate configuration steps will need to be performed (e.g. installing jupyter in the container). Subsequent runs will be much faster.
-
-The process will end with a message such as this one:
-```sh
-To access the notebook, open this file in a browser:
-    file:///home/lompa/.local/share/jupyter/runtime/nbserver-1-open.html
-Or copy and paste this URL:
-    http://127.0.0.1:39281/?token=0cd92163797c3b3abe67c2b0aea57939867477d6068708a2
-```
-Copying one of the two addresses in a file browser will provide access to the Jupyter server running in the spawned container. By default, the main lecture folders is shared with the container environment, so any modification you make in the contain will reflect in the host system, and the other way round.
-
-Once you are done, pressing CTRL+C on the terminal will close the Docker container.
-
-For more information about how Docker works (such as the difference between images and containers, or how to get rid of all of them once you are done with the tutorial), you can check the [Docker documentation](https://docs.docker.com/).
+* Installing a compatible version of the Python interpreter and all the required dependencies, possibly via a virtual environment
+  - The best way to do this is by installing [pyenv](https://github.com/pyenv/pyenv) and [poetry](https://python-poetry.org)
+  - `pyenv` is a tool that enable switching between multiple Python versions
+  - `poetry` is a package and dependency manager that can greatly simply working with virtual environments
+  - If you don't wish to use `poetry`, you can find all the lecture dependencies listed in the `pyproject.toml` file; you can then proceed to install them using any approach of your choice
 
 ## Read-only Access and PDF Notes ##
 
