@@ -765,12 +765,13 @@ def consolidate_paths(
         paths : list,
         node_counts : dict,
         arc_counts : dict,
-        tlim : int = None):
+        tlim : int = None,
+        solver='CBC'):
     """
     """
     assert(tug['unfolded'])
     # Build the solver
-    slv = pywraplp.Solver.CreateSolver('CBC')
+    slv = pywraplp.Solver.CreateSolver(solver)
     # Prepar some useful constants
     npaths = len(paths)
     inf = slv.infinity()

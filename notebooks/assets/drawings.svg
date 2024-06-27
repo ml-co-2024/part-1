@@ -28,13 +28,13 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="1.6708672"
-     inkscape:cx="1222.4191"
-     inkscape:cy="189.42259"
+     inkscape:zoom="3.3417344"
+     inkscape:cx="820.08313"
+     inkscape:cy="877.53832"
      inkscape:window-width="1512"
      inkscape:window-height="916"
      inkscape:window-x="0"
-     inkscape:window-y="38"
+     inkscape:window-y="256"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
      inkscape:snap-intersection-paths="true"
@@ -1630,46 +1630,50 @@
        d="M 643.32913,910.72097 H 957.12849"
        id="path2"
        sodipodi:nodetypes="cc" />
-    <ellipse
-       style="fill:none;stroke:#999999;stroke-width:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
-       id="path3"
-       cx="539.37903"
-       cy="1081.4626"
-       rx="24.545454"
-       ry="13.119122"
-       transform="rotate(-15)" />
-    <ellipse
-       style="fill:none;stroke:#999999;stroke-width:1.00003;stroke-dasharray:1.00003, 1.00003;stroke-dashoffset:0"
-       id="path3-8"
-       cx="533.21405"
-       cy="1078.49"
-       rx="9.4899397"
-       ry="4.9735932"
-       transform="matrix(0.96736327,-0.25339359,0.26434366,0.96442855,0,0)" />
-    <ellipse
-       style="fill:none;stroke:#999999;stroke-width:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
-       id="path3-9"
-       cx="539.37909"
-       cy="1081.462"
-       rx="48.71991"
-       ry="26.039951"
-       transform="rotate(-15)" />
-    <ellipse
-       style="fill:none;stroke:#999999;stroke-width:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
-       id="path3-9-7"
-       cx="539.37866"
-       cy="1081.4619"
-       rx="85.198898"
-       ry="45.537342"
-       transform="rotate(-15)" />
-    <ellipse
-       style="fill:none;stroke:#999999;stroke-width:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
-       id="path3-9-7-5"
-       cx="539.85382"
-       cy="1081.6997"
-       rx="146.50412"
-       ry="78.423233"
-       transform="matrix(0.9658119,-0.25924387,0.25839482,0.9660394,0,0)" />
+    <g
+       id="g1"
+       transform="rotate(54.14403,833.0642,895.36751)">
+      <ellipse
+         style="fill:none;stroke:#999999;stroke-width:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+         id="path3"
+         cx="539.37903"
+         cy="1081.4626"
+         rx="24.545454"
+         ry="13.119122"
+         transform="rotate(-15)" />
+      <ellipse
+         style="fill:none;stroke:#999999;stroke-width:1.00003;stroke-dasharray:1.00003, 1.00003;stroke-dashoffset:0"
+         id="path3-8"
+         cx="533.21405"
+         cy="1078.49"
+         rx="9.4899397"
+         ry="4.9735932"
+         transform="matrix(0.96736327,-0.25339359,0.26434366,0.96442855,0,0)" />
+      <ellipse
+         style="fill:none;stroke:#999999;stroke-width:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+         id="path3-9"
+         cx="539.37909"
+         cy="1081.462"
+         rx="48.71991"
+         ry="26.039951"
+         transform="rotate(-15)" />
+      <ellipse
+         style="fill:none;stroke:#999999;stroke-width:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+         id="path3-9-7"
+         cx="539.37866"
+         cy="1081.4619"
+         rx="85.198898"
+         ry="45.537342"
+         transform="rotate(-15)" />
+      <ellipse
+         style="fill:none;stroke:#999999;stroke-width:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+         id="path3-9-7-5"
+         cx="539.85382"
+         cy="1081.6997"
+         rx="146.50412"
+         ry="78.423233"
+         transform="matrix(0.9658119,-0.25924387,0.25839482,0.9660394,0,0)" />
+    </g>
     <path
        style="fill:none;stroke:#0088aa;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#TriangleOutM);marker-start:url(#Dot)"
        d="m 859.95816,829.21013 -28.65331,26.08721"
@@ -1677,17 +1681,17 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#0088aa;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#TriangleOutM-3)"
-       d="m 848.15198,855.29734 -19.27207,18.12744"
+       d="m 848.15198,855.29734 -15.27207,14.12744"
        id="path4-0"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#0088aa;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#TriangleOutM-3-0)"
-       d="m 848.15198,873.38848 -19.27189,12.21433"
+       d="m 848.15198,869.38848 -13.27189,8.21433"
        id="path4-0-2"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#0088aa;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#TriangleOutM-3-0-0)"
-       d="m 848.15198,885.59581 -19.27207,8.8491"
+       d="m 848.15198,877.59581 -9.27207,2.8491"
        id="path4-0-2-0"
        sodipodi:nodetypes="cc" />
     <path
@@ -1697,17 +1701,17 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#ff6600;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#TriangleOutM-38)"
-       d="m 828.87991,873.42478 19.27207,-0.0363"
+       d="m 832.87991,869.42478 15.27207,-0.0363"
        id="path5-6"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#ff6600;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#TriangleOutM-38-2)"
-       d="m 828.88009,885.60281 19.27189,-0.007"
+       d="m 834.88009,877.60281 13.27189,-0.007"
        id="path5-6-1"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#ff6600;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#TriangleOutM-38-2-8)"
-       d="m 828.87991,894.44491 19.27207,-0.0832"
+       d="m 838.87991,880.44491 8.97282,0.0115"
        id="path5-6-1-9"
        sodipodi:nodetypes="cc" />
     <path
